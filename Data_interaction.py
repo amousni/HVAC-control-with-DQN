@@ -15,14 +15,14 @@ class DataInteraction(object):
 	def __init__(
 		self,
 		server = "localhost",
-		user = "userma",
-		password = "ma@e412",
+		user = "**",
+		password = "**",
 		):
 		# define variable to store IP/account/password
 		self.server = server 
 		self.user = user
 		self.password = password
-		self.token = 'VQv9q4faBUGQ5q8h'
+		self.token = '**'
 		self.lon = 113.9777700000
 		self.lat = 22.5924260000
 
